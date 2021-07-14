@@ -1,0 +1,8 @@
+.counterParent {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.counter {
+    width: 100%;
+}
